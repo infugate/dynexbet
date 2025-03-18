@@ -74,7 +74,7 @@ export default function Navbar() {
   return (
     <NavbarContainer>
       <LogoContainer>
-        <LogoText>ReddyBook</LogoText>
+        <LogoText>Dynexbet</LogoText>
       </LogoContainer>
       
       <BalanceContainer>
